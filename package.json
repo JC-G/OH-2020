@@ -1,0 +1,15 @@
+{
+  "name": "oh-2020",
+  "version": "1.0.0",
+  "description": "oh 2020",
+  "main": "index.js",
+  "dependencies": {
+    "websocket": "^1.0.32"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
