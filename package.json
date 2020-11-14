@@ -2,14 +2,15 @@
   "name": "oh-2020",
   "version": "1.0.0",
   "description": "oh 2020",
-  "main": "index.js",
+  "main": "test.js",
   "dependencies": {
     "express": "^4.17.1",
     "websocket": "^1.0.32"
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node server/server.js"
+    "start": "node server/test.js",
+    "deploy": "gcloud app deploy"
   },
   "author": "",
   "license": "ISC"
